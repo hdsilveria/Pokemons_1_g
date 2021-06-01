@@ -26,7 +26,9 @@
 
 <p>- Para trocar o sprite, basta clicar nas setas dentro do card:</p>
 
-<img src="./git_img/poke_back.png"> <img src="./git_img/poke_front.png">
+<img src="./git_img/poke_back.png"> 
+<br>
+<img src="./git_img/poke_front.png">
 
 <p>- Para pesquisar, basta ir no campo "Buscar pokemon", deve ser digitado em letras minusculas e ir na opção "Buscar":</p>
 
